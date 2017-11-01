@@ -1,2 +1,10 @@
-# baike_spider
-a spider works for baike.baidu.com
+# 百度百科简易爬虫
+
+标签（空格分隔）： python 爬虫
+
+---
+基于 **bs4**, **urllib**
+
+- [X] 基本爬虫功能
+- [X] 多线程
+- [ ] 多进程（正在研究）
