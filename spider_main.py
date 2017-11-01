@@ -1,9 +1,7 @@
 import time
 import threading
 import queue
-
-
-from baike_spider import url_manager, html_downloader, html_parser, html_outputer
+import url_manager, html_downloader, html_parser, html_outputer
 
 
 class SpiderMain(object):
